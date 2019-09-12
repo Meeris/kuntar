@@ -1,0 +1,7 @@
+Lakkautuskunta	Nimike	Ajankohta	Liitoskunta	Nimike
+442	Luvia	1.1.2017	051	Eurajoki
+174	Juankoski	1.1.2017	297	Kuopio
+164	Jalasjärvi	1.1.2016	301	Kurikka
+283	Hämeenkoski	1.1.2016	098	Hollola
+319	Köyliö	1.1.2016	783	Säkylä
+532	Nastola	1.1.2016	398	Lahti

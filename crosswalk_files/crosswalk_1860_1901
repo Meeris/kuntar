@@ -1,0 +1,618 @@
+nimi,id,nimi_1901,id_1901,kerroin,kerroin_p
+Lappee,429,Lappeenranta,130,1,100
+Räisälä,520,Räisälä,520,1,100
+Jääski,363,Jääski,363,1,100
+Valkjärvi,579,Valkjärvi,579,1,100
+Kesälahti,388,Kesälahti,388,1,100
+Joutseno,358,Joutseno,358,1,100
+Miehikkälä,157,Miehikkälä,157,1,100
+Sippula,619,Sippola,639,1,100
+Kymi,422,Kotka,108,0.08752859417194349,8.8
+Porvoo,204,Porvoon mlk,495,0.05584818147706097,5.6
+Sipoo,251,Sipoo,251,0.015486867861480284,1.5
+Sipoo,251,Sipoo,251,0.9845131321385198,98.5
+Pornainen,203,Porneesi,640,1,100
+Askola,006,Askola,006,1,100
+Pukkila,207,Pukkila,207,1,100
+Mäntsälä,166,Mäntsälä,166,1,100
+Orimattila,177,Orimattila,177,1,100
+Myrskylä,165,Myrskylä,165,1,100
+Artjärvi,323,Artjärvi,323,1,100
+Lapinjärvi,127,Lapträski,641,1,100
+Liljendal,438,Liljendal,438,1,100
+Pernaja,478,Pernaja,478,0.9563823901643219,95.6
+Pernaja,478,Pernaja,478,0.02502015871544393,2.5
+Loviisa,145,Loviisa,145,1,100
+Ruotsinpyhtää,516,Ruotsin-Pyhtää,642,0.05611476962092066,5.6
+Pyhtää,211,Pyhtää,211,0.018872977628523857,1.9
+Pyhtää,211,Pyhtää,211,0.9811270223714761,98.1
+Ruotsinpyhtää,516,Ruotsin-Pyhtää,642,0.9438852303790793,94.4
+Elimäki,330,Elimäki,330,1,100
+Jaala,355,Jaala,355,1,100
+Iitti,046,Iitti,046,1,100
+Nastola,618,Nastola,618,1,100
+Kärkölä,121,Kärkölä,121,1,100
+Sysmä,263,Sysmä,263,1,100
+Asikkala,005,Asikkala,005,1,100
+Luhanka,146,Luhanka,146,1,100
+Kangasniemi,073,Kangasniemi,073,1,100
+Hirvensalmi,035,Hirvensalmi,035,1,100
+Valkeala,578,Valkeala,578,1,100
+Luumäki,150,Luumäki,150,1,100
+Savitaipale,241,Savitaipale,241,1,100
+Suomenniemi,543,Suomenniemi,543,1,100
+Ristiina,514,Ristiina,514,1,100
+Lemi,133,Lemi,133,1,100
+Taipalsaari,265,Taipalsaari,265,1,100
+Puumala,210,Puumala,210,1,100
+Sulkava,259,Sulkava,259,1,100
+Juva,063,Juva,063,1,100
+Tuusniemi,278,Tuusniemi,278,1,100
+Lapinlahti,128,Lapinlahti,128,1,100
+Suonenjoki,262,Suonenjoki,262,1,100
+Petäjävesi,194,Petäjävesi,194,1,100
+Uurainen,285,Uurainen,285,1,100
+Saarijärvi,235,Saarijärvi,235,1,100
+Viitasaari,300,Viitasaari,300,1,100
+Pihtipudas,198,Pihtipudas,198,1,100
+Keitele,086,Keitele,086,1,100
+Karttula,378,Karttula,378,1,100
+Pielavesi,196,Pielavesi,196,1,100
+Kiuruvesi,099,Kiuruvesi,099,1,100
+Pyhäjärvi,213,Pyhäjärvi,213,0.7011224598751271,70.1
+Haapajärvi,020,Haapajärvi,020,1,100
+Reisjärvi,227,Reisjärvi,227,1,100
+Nivala,171,Nivala,171,1,100
+Haapavesi,021,Haapavesi,021,1,100
+Kärsämäki,122,Kärsämäki,122,1,100
+Pulkkila,496,Pulkkila,496,1,100
+Rantsila,507,Rantsila,507,1,100
+Vihanti,587,Vihanti,587,1,100
+Lumijoki,147,Lumijoki,147,1,100
+Tyrnävä,280,Tyrnävä,280,1,100
+Muhos,159,Muhos,159,1,100
+Kestilä,387,Kestilä,387,1,100
+Utajärvi,283,Utajärvi,283,1,100
+Rautavaara,225,Rautavaara,225,0.9995220142904377,100
+Ristijärvi,229,Ristijärvi,229,1,100
+Puolanka,209,Puolanka,209,1,100
+Hyrynsalmi,040,Hyrynsalmi,040,1,100
+Kuhmo,112,Kuhmoniemi,643,1,100
+Juuka,061,Juuka,061,1,100
+Kaavi,069,Kaavi,069,1,100
+Heinävesi,033,Heinävesi,033,1,100
+Polvijärvi,200,Polvijärvi,200,1,100
+Liperi,141,Liperi,141,1,100
+Eno,331,Eno,331,1,100
+Lieksa,138,Pielisjärvi,487,1,100
+Tohmajärvi,273,Tohmajärvi,273,1,100
+Suomussalmi,261,Suomussalmi,261,1,100
+Inari,051,Inari,051,1,100
+Utsjoki,284,Utsjoki,284,1,100
+Kittilä,098,Kittilä,098,1,100
+Rovaniemi,230,Rovaniemi,230,1,100
+Salla,236,Kuolajärvi,644,1,100
+Kemijärvi,088,Kemijärvi,088,1,100
+Taivalkoski,266,Taivalkoski,266,1,100
+Pudasjärvi,206,Pudasjärvi,206,1,100
+Ylikiiminki,603,Ylikiiminki,603,1,100
+Kiiminki,393,Kiiminki,393,1,100
+Ii,044,Ii,044,1,100
+Simo,250,Simo,250,0.9998497810354742,100
+Tervola,271,Tervola,271,0.9985515593624578,99.9
+Haukipudas,338,Haukipudas,338,1,100
+Oulunsalo,473,Oulunsalo,473,1,100
+Hailuoto,022,Hailuoto,022,1,100
+Ylitornio,306,Ylitornio,306,1,100
+Turtola,620,Turtola,620,1,100
+Kolari,103,Kolari,103,1,100
+Muonio,161,Muonionniska,645,1,100
+Enontekiö,011,Enontekiäinen,646,1,100
+Kaskinen,081,Kaskinen,081,1,100
+Sulva,538,Sulva,538,1,100
+Kokkola,102,Kokkolan mlk,647,0.16569246310721875,16.6
+Oulainen,180,Oulainen,180,1,100
+Merijärvi,155,Merijärvi,155,1,100
+Pyhäjoki,212,Pyhäjoki,212,1,100
+Alavieska,003,Alavieska,003,1,100
+Ylivieska,307,Ylivieska,307,1,100
+Sievi,245,Sievi,245,1,100
+Toholampi,274,Toholampi,274,1,100
+Kaustinen,085,Kaustisenkylä,648,1,100
+Kannus,076,Kannus,076,1,100
+Himanka,344,Himanka,344,1,100
+Lohtaja,440,Lohtaja,440,1,100
+Evijärvi,015,Evijärvi,015,1,100
+Lappajärvi,129,Lappajärvi,129,1,100
+Alajärvi,002,Alajärvi,002,1,100
+Vimpeli,301,Vimpeli,301,1,100
+Veteli,297,Veteli,297,1,100
+Halsua,023,Halsua,023,1,100
+Perho,192,Perho,192,1,100
+Lestijärvi,137,Lestijärvi,137,1,100
+Karstula,079,Karstula,079,1,100
+Soini,254,Soini,254,1,100
+Pylkönmäki,504,Pylkönmäki,504,1,100
+Multia,160,Multia,160,1,100
+Ähtäri,310,Ätsäri,649,1,100
+Lehtimäki,435,Lehtimäki,435,1,100
+Töysä,569,Töysä,569,1,100
+Kuortane,116,Kuortane,116,1,100
+Alavus,004,Alavus,004,1,100
+Karvia,080,Karvia,080,1,100
+Jalasjärvi,615,Jalasjärvi,615,1,100
+Kauhava,083,Kauhava,083,1,100
+Kortesjärvi,407,Kortesjärvi,407,1,100
+Alahärmä,314,Alahärmä,314,1,100
+Oravainen,470,Oravainen,470,1,100
+Ylihärmä,601,Ylihärmä,601,1,100
+Ylistaro,605,Ylistaro,605,1,100
+Vähäkyrö,597,Vähäkyrö,597,1,100
+Isokyrö,054,Isokyrö,054,1,100
+Mustasaari,162,Mustasaari,162,0.037357478356732844,3.7
+Laihia,125,Laihia,125,1,100
+Teuva,272,Teuva,272,1,100
+Ilmajoki,048,Ilmajoki,048,1,100
+Kurikka,117,Kurikka,117,1,100
+Kauhajoki,082,Kauhajoki,082,1,100
+Isojoki,053,Isojoki,053,1,100
+Siikainen,246,Siikainen,246,1,100
+Honkajoki,037,Honkajoki,037,1,100
+Kankaanpää,074,Kankaanpää,074,1,100
+Lavia,434,Lavia,434,1,100
+Noormarkku,465,Normarkku,650,1,100
+Nakkila,170,Nakkila,170,1,100
+Harjavalta,028,Harjavalta,028,1,100
+Kiukainen,396,Kiukainen,396,1,100
+Säkylä,264,Säkylä,264,1,100
+Yläne,607,Yläne,607,1,100
+Oripää,178,Oripää,178,1,100
+Vampula,581,Vampula,581,1,100
+Köyliö,617,Köyliö,617,1,100
+Äetsä,608,Kiikka,391,1,100
+Kiikoinen,392,Kiikoinen,392,1,100
+Alastaro,315,Alastaro,315,1,100
+Punkalaidun,208,Punkalaidun,208,1,100
+Humppila,039,Humppila,039,1,100
+Jokioinen,057,Jokioinen,057,1,100
+Urjala,282,Urjala,282,1,100
+Hämeenkyrö,042,Hämeenkyrö,042,1,100
+Mouhijärvi,456,Mouhijärvi,456,1,100
+Jämijärvi,065,Jämijärvi,065,1,100
+Kuru,417,Kuru,417,1,100
+Padasjoki,183,Padasjoki,183,1,100
+Tuulos,564,Tuulos,564,1,100
+Lammi,428,Lammi,428,1,100
+Hämeenkoski,616,Koski Hl,651,1,100
+Hauho,337,Hauho,337,1,100
+Kalvola,368,Kalvola,368,1,100
+Sääksmäki,551,Sääksmäki,551,1,100
+Lempäälä,135,Lempäälä,135,1,100
+Suomusjärvi,544,Suomusjärvi,544,1,100
+Karjalohja,376,Karjalohja,376,1,100
+Sammatti,526,Sammatti,526,1,100
+Lohja,142,Lohja,142,1,100
+Siuntio,252,Siuntio,252,1,100
+Vihti,299,Vihti,299,1,100
+Pyhäjärvi UI,621,Pyhäjärvi UI,621,1,100
+Renko,511,Renko,511,1,100
+Loppi,144,Loppi,144,1,100
+Hausjärvi,031,Hausjärvi,031,1,100
+Espoo,012,Espoo,012,1,100
+Kirkkonummi,096,Kirkkonummi,096,1,100
+Inkoo,052,Inkoo,052,0.0838453849833984,8.4
+Kisko,395,Kisko,395,1,100
+Muurla,459,Muurila,652,1,100
+Pertteli,480,Pertteli,480,1,100
+Kiikala,390,Kiikala,390,1,100
+Ypäjä,309,Ypäjä,309,1,100
+Kuusjoki,420,Kuusjoki,420,1,100
+Koski Tl,107,Koski Tl,107,1,100
+Marttila,153,Marttila,153,1,100
+Piikkiö,489,Piikkiö,489,0.06651726736076713,6.7
+Piikkiö,489,Piikkiö,489,0.9334827326392329,93.3
+Euran kappeli,653,Euran kappeli,653,1,100
+Aura,007,Prunkkala,654,1,100
+Lieto,139,Lieto,139,1,100
+Rusko,233,Rusko,233,1,100
+Vahto,576,Vahto,576,1,100
+Nousiainen,173,Nousiainen,173,1,100
+Parainen,186,Parainen,186,0.3182745869531373,31.8
+Turku,277,Kakskerta,366,1,100
+Kaarina,068,Kuusisto,419,1,100
+Parainen,186,Parainen,186,0.1623452421419843,16.2
+Parainen,186,Parainen,186,0.025500164257854153,2.6
+Parainen,186,Parainen,186,0.1358524114055193,13.6
+Parainen,186,Parainen,186,0.35802759524150496,35.8
+Dragsfjärd,329,Dragsfjärd,329,0.0699657243618902,7
+Dragsfjärd,329,Dragsfjärd,329,0.07375241000751818,7.4
+Dragsfjärd,329,Hiittinen,343,1,100
+Dragsfjärd,329,Dragsfjärd,329,0.06521693115150226,6.5
+Dragsfjärd,329,Dragsfjärd,329,0.05716244083521803,5.7
+Kökar,123,Kökar,123,1,100
+Brändö,008,Brändö,008,0.16631621900162297,16.6
+Kumlinge,114,Kumlinge,114,0.1176421446170419,11.8
+Sottunga,258,Sottunga,258,1,100
+Vårdö,304,Vårdö,304,0.162555678230006,16.3
+Kumlinge,114,Kumlinge,114,0.14864946449957656,14.9
+Kumlinge,114,Kumlinge,114,0.1902201219886536,19
+Kumlinge,114,Kumlinge,114,0.543488268894728,54.3
+Brändö,008,Brändö,008,0.1313038235186955,13.1
+Brändö,008,Brändö,008,0.20200691118822478,20.2
+Brändö,008,Brändö,008,0.13153744193100178,13.2
+Brändö,008,Brändö,008,0.15990166298406983,16
+Brändö,008,Brändö,008,0.20893394137638516,20.9
+Iniö,353,Iniö,353,0.4305153354333947,43.1
+Iniö,353,Iniö,353,0.3518362409780225,35.2
+Iniö,353,Iniö,353,0.21764842358858275,21.8
+Houtskari,347,Houtskari,347,0.12162188428877671,12.2
+Houtskari,347,Houtskari,347,0.1589727124546296,15.9
+Houtskari,347,Houtskari,347,0.6353307234360117,63.5
+Houtskari,347,Houtskari,347,0.08407467982058202,8.4
+Korppoo,406,Korpoo,655,0.7012942246808307,70.1
+Korppoo,406,Korpoo,655,0.06668137630338868,6.7
+Korppoo,406,Korpoo,655,0.10415498743929005,10.4
+Rymättylä,519,Rymättylä,519,0.11119289927732953,11.1
+Korppoo,406,Korpoo,655,0.12786941157649062,12.8
+Nauvo,463,Nauvo,463,0.4731015415632333,47.3
+Nauvo,463,Nauvo,463,0.07139477575963121,7.1
+Nauvo,463,Nauvo,463,0.0858811858153805,8.6
+Nauvo,463,Nauvo,463,0.36962249686175497,37
+Rymättylä,519,Rymättylä,519,0.06897030939089356,6.9
+Rymättylä,519,Rymättylä,519,0.1110603069077331,11.1
+Velkua,586,Velkua,586,0.3046600717395869,30.5
+Velkua,586,Velkua,586,0.3494208268295245,34.9
+Velkua,586,Velkua,586,0.22325795232003573,22.3
+Lappi,430,Lappi,430,1,100
+Laitila,126,Laitila,126,1,100
+Uusikaupunki,287,Uudenkaupungin mlk,573,0.19440212985267935,19.4
+Uusikaupunki,287,Uudenkaupungin mlk,573,0.18661434191890633,18.7
+Pyhämaa,502,Pyhämaan luoto,656,1,100
+Pyhäranta,215,Pyhämaa,502,1,100
+Rauma,223,Rauman mlk,508,0.04241756630492823,4.2
+Eurajoki,014,Eurajoki,014,0.021725108009738613,2.2
+Luvia,613,Luvia,613,1,100
+Eurajoki,014,Eurajoki,014,0.9782748919902614,97.8
+Porin mlk,494,Porin mlk,494,0.07444214811579512,7.4
+Merikarvia,156,Merikarvia,156,1,100
+Eckerö,009,Eckerö,009,1,100
+Geta,019,Geta,019,1,100
+Finström,016,Finström,016,0.20254929411793962,20.3
+Sund,260,Sund,260,1,100
+Vårdö,304,Vårdö,304,0.27996344802146894,28
+Vårdö,304,Vårdö,304,0.43449975745345143,43.4
+Vårdö,304,Vårdö,304,0.12298111629507363,12.3
+Lumparland,148,Lumparland,148,1,100
+Lemland,134,Lemland,134,1,100
+Jomala,058,Maarianhamina,657,0.8706689313169026,87.1
+Jomala,058,Jomala,058,0.9999999999999871,100
+Saltvik,238,Saltvik,238,0.9934838784460138,99.3
+Finström,016,Finström,016,0.7974507058820605,79.7
+Hammarland,025,Hammarland,025,1,100
+Föglö,018,Föglö,018,0.2724653115541979,27.2
+Föglö,018,Föglö,018,0.2945097681647088,29.5
+Kemin mlk,087,Kemin mlk,637,0.019747989254895414,2
+Kemin mlk,087,Kemin mlk,637,0.01806939741516447,1.8
+Kempele,091,Kempele,091,1,100
+Mustasaari,162,Mustasaari,162,0.02980790180660046,3
+Mustasaari,162,Mustasaari,162,0.015615537976900018,1.6
+Närpiö,176,Närpiö,176,0.013653465439371402,1.4
+Kymi,422,Kotka,108,0.13901187102589332,13.9
+Kymi,422,Kotka,108,0.06407149632820572,6.4
+Pernaja,478,Pernaja,478,0.018597451120234178,1.9
+Porvoo,204,Porvoon mlk,495,0.02130136999268811,2.1
+Paimio,184,Paimio,184,1,100
+Föglö,018,Föglö,018,0.23818887522322812,23.8
+Föglö,018,Föglö,018,0.1948360450578652,19.5
+Mäntyharju,168,Mäntyharju,168,1,100
+Askainen,324,Askainen,324,0.013228804880117344,1.3
+Ruokolahti,231,Ruokolahti,231,1,100
+Antrea,321,Antrea,321,1,100
+Rautu,510,Rautu,510,1,100
+Muolaa,458,Muola,658,1,100
+Heinjoki,340,Heinjoki,340,1,100
+Kirvu,394,Kirvu,394,1,100
+Rautjärvi,226,Rautjärvi,226,1,100
+Parikkala,187,Parikkala,187,1,100
+Uukuniemi,574,Uukuniemi,574,1,100
+Ruskeala,517,Ruskeala,517,1,100
+Pälkjärvi,505,Pälkjärvi,505,1,100
+Soanlahti,533,Soanlahti,533,1,100
+Suistamo,537,Suistamo,537,0.9986263135196745,99.9
+Korpiselkä,405,Korpiselkä,405,1,100
+Lavansaari,433,Lavansaari,433,1,100
+Seitskaarto,622,Seiskari,529,1,100
+Suursaari,546,Suursaari,546,1,100
+Tytärsaari,568,Tytärsaari,568,1,100
+Kerimäki,386,Kerimäki,386,1,100
+Rääkkylä,234,Rääkkylä,234,1,100
+Kitee,097,Kiteen pitäjä,659,1,100
+Savonranta,527,Savonranta,527,1,100
+Rantasalmi,221,Rantasalmi,221,1,100
+Enonkoski,010,Enonkoski,010,1,100
+Jäppilä,362,Jäppilä,362,1,100
+Kuusjärvi,624,Kuusjärvi,624,1,100
+Anttola,322,Anttola,322,1,100
+Haukivuori,339,Haukivuori,339,1,100
+Hartola,029,Hartola,029,1,100
+Joutsa,060,Joutsa,060,1,100
+Anjala,319,Anjala,319,1,100
+Nurmijärvi,175,Nurmijärvi,175,1,100
+Tuusula,279,Tuusula,279,1,100
+Degerby,328,Degerby,328,1,100
+Inkoo,052,Inkoo,052,0.9161546150166016,91.6
+Nummi-Pusula,467,Pusula,499,1,100
+Nummi,625,Nummi,625,1,100
+Somerniemi,534,Somerniemi,534,1,100
+Somero,255,Somero,255,1,100
+Kariniemi,626,Karinainen,372,1,100
+Pöytyä,217,Pöytyä,217,1,100
+Paattinen,474,Paattinen,474,1,100
+Karjala,375,Karjala,375,1,100
+Mynämäki,164,Mynämäki,164,1,100
+Lokala,627,Lokalahti,442,1,100
+Korpilahti,404,Korpilahti,404,1,100
+Leivonmäki,436,Leivonmäki,436,1,100
+Eräjärvi,332,Eräjärvi,332,1,100
+Längelmäki,445,Längelmäki,445,1,100
+Kuhmoinen,113,Kuhmoinen,113,1,100
+Sahalahti,522,Sahalahti,522,1,100
+Kangasala,072,Kangasala,072,1,100
+Viljakkala,591,Viljakkala,591,1,100
+Ylöjärvi,308,Ylöjärvi,308,1,100
+Teisko,557,Teisko,557,1,100
+Karkku,377,Karkku,377,1,100
+Suoniemi,545,Suoniemi,545,1,100
+Vesilahti,296,Vesilahti,296,1,100
+Tottijärvi,563,Tottijärvi,563,1,100
+Pälkäne,216,Pälkäne,216,1,100
+Luopioinen,444,Luopioinen,444,1,100
+Tyrväntö,566,Tyrväntö,566,1,100
+Hattula,030,Hattula,030,1,100
+Akaa,001,Akaa,001,1,100
+Kylmäkoski,421,Kylmäkoski,421,1,100
+Metsämaa,452,Metsämaa,452,1,100
+Loimaa,143,Loimaa,143,1,100
+Janakkala,055,Janakkala,055,1,100
+Vanaja,582,Vanaja,582,1,100
+Pirkkala,199,Pirkkala,199,1,100
+Hinnerjoki,345,Hinnerjoki,345,1,100
+Eura,013,Euran pitäjä,660,1,100
+Honkilahti,346,Honkilahti,346,1,100
+Kokemäki,101,Kokemäki,101,1,100
+Kauvatsa,382,Kauvatsa,382,1,100
+Kullaa,411,Kullaa,411,1,100
+Ulvila,281,Ulvila,281,1,100
+Ahlainen,312,Ahlainen,312,1,100
+Pomarkku,201,Poomarkku,661,1,100
+Siipyy,530,Siipyy,530,1,100
+Lapväärtti,431,Lapväärtti,431,1,100
+Karijoki,077,Karijoki,077,0.22317020720747044,22.3
+Karijoki,077,Karijoki,077,0.776829792792472,77.7
+Jurva,359,Jurva,359,1,100
+Pirttikylä,491,Pirttikylä,491,1,100
+Ylimarkku,604,Övermarkku,662,1,100
+Närpiö,176,Närpiö,176,0.9863465345606286,98.6
+Maalahti,151,Maalahti,151,0.11818446987300567,11.8
+Maalahti,151,Maalahti,151,0.8818155301270559,88.2
+Björkö,630,Koivulahti,402,1,100
+Jeppo,631,Jepua,356,1,100
+Munsala,457,Munsala,457,1,100
+Purmo,498,Purmo,498,1,100
+Ähtävä,609,Ähtävä,609,0.9917473848120323,99.2
+Alaveteli,317,Alaveteli,317,0.9992252140108057,99.9
+Teerijärvi,556,Tervajärvi,663,0.9993792894143004,99.9
+Kälviä,426,Kälviä,426,1,100
+Ullava,570,Ullava,570,1,100
+Sumiainen,539,Sumiainen,539,1,100
+Äänekoski,311,Konginkangas,403,1,100
+Hankasalmi,026,Hankasalmi,026,1,100
+Rautalampi,224,Rautalampi,224,1,100
+Vesanto,295,Vesanto,295,1,100
+Maaninka,446,Maaninka,446,1,100
+Jämsä,066,Jämsä,066,1,100
+Seinäjoki,244,Seinäjoki,244,1,100
+Peräseinäjoki,481,Peräseinäjoki,481,1,100
+Jormasjärvi,632,Sotkamo,257,0.32468323436135577,32.5
+Sotkamo,257,Sotkamo,257,0.6753167712358109,67.5
+Saloinen,525,Salon kappeli,664,1,100
+Siikajoki,247,Paavola,475,1,100
+Revolahti,633,Revonlahti,512,1,100
+Siikajoki,247,Siikajoki,247,1,100
+Liminka,140,Liminka,140,1,100
+Temmes,558,Temmes,558,1,100
+Rautio,509,Rautio,509,1,100
+Kalajoki,071,Kalajoki,071,1,100
+Kuivaniemi,410,Kuivaniemi,410,1,100
+Karunki,380,Karunki,380,1,100
+Särkisalo,548,Finby,665,0.2352875919479615,23.5
+Särkisalo,548,Finby,665,0.2651943545475417,26.5
+Pohja,492,Pohja,492,1,100
+Dragsfjärd,329,Dragsfjärd,329,0.7339024936438714,73.4
+Karuna,379,Karuna,379,1,100
+Särkisalo,548,Finby,665,0.14572564306806443,14.6
+Särkisalo,548,Finby,665,0.35379241043635634,35.4
+Västanfjärd,599,Västanfjärd,599,1,100
+Sauvo,240,Sauvo,240,1,100
+Halikko,335,Halikko,335,1,100
+Bromarv,327,Tenhola,559,1,100
+Masku,154,Masku,154,1,100
+Turku,277,Turku,277,0.24214259892826784,24.2
+Kaarina,068,Kaarina,068,1,100
+Rymättylä,519,Rymättylä,519,0.7087764844240438,70.9
+Velkua,586,Velkua,586,0.12266114911085284,12.3
+Vehmaa,294,Vehmaa,294,1,100
+Raisio,220,Raisio,220,1,100
+Lemu,437,Lemu,437,1,100
+Merimasku,450,Merimasku,450,1,100
+Mietoinen,454,Mietoinen,454,1,100
+Askainen,324,Askainen,324,0.9867711951198826,98.7
+Virolahti,302,Virolahti,302,1,100
+Säkjärvi,634,Säkkijärvi,547,1,100
+Johannes,357,Johanneksen pitäjä,666,1,100
+Koivisto,400,Koivisto,400,1,100
+Kuolemajärvi,413,Kuolemajärvi,413,1,100
+Uusikirkko Vl,698,Uusikirkko Vl,698,1,100
+Impilahti,352,Impilahti,352,0.9761851859300168,97.6
+Jaakkima,354,Jaakkima,354,1,100
+Kurkijoki,416,Kurkijoki,416,1,100
+Hiitola,342,Hiitola,342,1,100
+Kaukola,381,Kaukola,381,1,100
+Pyhäjärvi,213,Pyhäjärvi,213,0.2988775401248728,29.9
+Metsäpirtti,453,Metsäpirtti,453,1,100
+Kivennapa,397,Kivennapa,397,1,100
+Valamo,636,Impilahti,352,0.023814814069983238,2.4
+Suojärvi,541,Suojärvi,541,1,100
+Maksamaa,448,Maksamaa,448,1,100
+Suodenniemi,540,Suodenniemi,540,1,100
+Tyrvää,567,Tyrvää,567,1,100
+Perniö,479,Perniö,479,0.986747706719274,98.7
+Kemiö,385,Kemiö,385,1,100
+Snappertuna,532,Snappertuna,532,1,100
+Kuusamo,119,Kuusamo,119,1,100
+Sodankylä,253,Sodankylä,253,1,100
+Luoto,149,Luoto,149,1,100
+Korsnäs,106,Korsnäs,106,0.9970442993620356,99.7
+Vöyri-Maksamaa,600,Vöyri,305,1,100
+Raippaluoto,506,Raippaluoto,506,1,100
+Petolahti,482,Petolahti,482,1,100
+Bergö,325,Bergö,325,1,100
+Kymi,422,Kotka,108,0.7093880384739575,70.9
+Kymi,422,Kymi,422,1,100
+Tiukka,561,Kristiinankaupungin mlk,667,1,100
+Kristiinankaupunki,110,Kristiinankaupunki,110,1,100
+Porin mlk,494,Porin mlk,494,0.9255578518842049,92.6
+Kalanti,367,Uusikirkko Tl,697,1,100
+Turku,277,Räntämäki,668,0.993744402919651,99.4
+Turku,277,Turku,277,0.7578573271865244,75.8
+Kuopio,115,Kuopio,115,0.6194700110231228,61.9
+Kuopion mlk,414,Kuopio,115,0.3805299889769007,38.1
+Sakkula,635,Sakkola,523,0.8340420259930875,83.4
+Lapua,131,Lapua,131,0.9999999864046037,100
+Angelniemi,318,Angelniemi,318,1,100
+Bromarv,327,Hanko,027,1,100
+Tammisaari,554,Tammisaari,554,0.9989080337941163,99.9
+Uusikaupunki,287,Uusikaupunki,287,1,100
+Uusikaupunki,287,Uudenkaupungin mlk,573,0.6189835282284143,61.9
+Naantali,169,Naantali,169,1,100
+Naantali,169,Naantalin mlk,462,1,100
+Rauma,223,Rauman mlk,508,0.9575824336950718,95.8
+Messukylä,451,Tampere,269,1,100
+Hämeenlinna,043,Hämeenlinna,043,1,100
+Hämeenlinna,043,Hämeenlinnan mlk,350,1,100
+Vehkalahti,584,Hamina,024,1,100
+Käkisalmi,425,Käkisalmi,425,1,100
+Käkisalmi,425,Käkisalmen mlk,424,1,100
+Sortavala,535,Sortavala,535,1,100
+Sortavala,535,Sortavalan mlk,536,1,100
+Heinola,032,Heinola,032,1,100
+Heinola,032,Heinolan mlk,341,1,100
+Mikkeli,158,Mikkeli,158,1,100
+Mikkeli,158,Mikkelin mlk,455,1,100
+Savonlinna,242,Savonlinna,242,1,100
+Savonlinna,242,Sääminki,552,1,100
+Uusikaarlepyy,286,Uusikaarlebyy,669,1,100
+Uusikaarlepyy,286,Uudenkaarlebyyn mlk,670,1,100
+Kokkola,102,Kokkola,102,1,100
+Kokkola,102,Kokkolan mlk,647,0.8343075368927813,83.4
+Jyväskylä,064,Jyväskylä,064,1,100
+Vaala,288,Säräisniemi,671,0.9999999999999967,100
+Oulu,181,Oulu,181,1,100
+Oulu,181,Oulun mlk,672,1,100
+Kemin mlk,637,Kemi,087,0.2844656260561445,28.4
+Kemin mlk,637,Kemi,087,0.7155343739438168,71.6
+Kemin mlk,637,Kemin mlk,637,0.9273710065464319,92.7
+Kemin mlk,637,Kemin mlk,637,0.03481160678353717,3.5
+Tornio,276,Tornio,276,1,100
+Tornio,276,Alatornio,316,1,100
+Porvoon mlk,495,Porvoo,204,1,100
+Porvoon mlk,495,Porvoon mlk,495,0.9228504485302508,92.3
+Vehmersalmi,585,Kuopion mlk,414,0.3124378541982065,31.2
+Kuopio,115,Kuopion mlk,414,0.013945827490035579,1.4
+Kuopion mlk,414,Kuopion mlk,414,0.6736163183117689,67.4
+Vehkajärvi,628,Kuhmalahti,409,0.34945816861356027,34.9
+Kuhmalahti,409,Kuhmalahti,409,0.6505418313864532,65.1
+Viipurin mlk,590,Viipuri,589,1,100
+Rauma,223,Rauma,223,1,100
+Kannonkoski,075,Kivijärvi,100,0.6422749090074004,64.2
+Kinnula,095,Kivijärvi,100,0.3577250909925879,35.8
+Ikaalinen,047,Ikaalinen,047,0.06863074652590823,6.9
+Ikaalisten mlk,638,Ikaalinen,047,0.9313692534740936,93.1
+Ruovesi,232,Vilppula,592,0.6197033251433075,62
+Keuruu,093,Vilppula,592,0.3360124242258886,33.6
+Kuorevesi,415,Vilppula,592,0.044284164817909276,4.4
+Keuruu,093,Keuruu,093,0.9999999999999851,100
+Orivesi,179,Orivesi,179,0.9999999895166681,100
+Pihlajavesi,488,Pihlajavesi,488,0.999999999999995,100
+Kuorevesi,415,Kuorevesi,415,0.9999999753281558,100
+Ruovesi,232,Ruovesi,232,0.9999999435504573,100
+Virrat,303,Virrat,303,0.9813925570939949,98.1
+Ruovesi,232,Virrat,303,0.018607442906000842,1.9
+Raahe,218,Raahe,218,1,100
+Raahe,218,Salon pitäjä,673,1,100
+Mustasaari,162,Nikolainkaupunki,674,1,100
+Mustasaari,162,Mustasaari,162,0.9172190818597666,91.7
+Helsinki,034,Helsinki,034,0.8373519329485372,83.7
+Helsinki,034,Helsingin pitäjä,675,0.9999999996558501,100
+Bromarv,327,Bromarv,327,0.5813099034365179,58.1
+Bromarv,327,Bromarv,327,0.41869009656348216,41.9
+Tammisaari,554,Tammisaaren mlk,553,0.7724173153751659,77.2
+Tammisaari,554,Tammisaaren mlk,553,0.22758268462481646,22.8
+Kontiolahti,105,Joensuu,056,1,100
+Kontiolahti,105,Kontiolahti,105,1,100
+Kruunupyy,111,Kruunubyy,676,1,100
+Forssa,017,Tammela,268,0.23336638069126073,23.3
+Tammela,268,Tammela,268,0.7666336193087735,76.7
+Hollola,036,Hollola,036,1,100
+Salmi,524,Salmi,524,0.04340534574143176,4.3
+Salmi,524,Mantsinsaari,677,1,100
+Salmi,524,Salmi,524,0.9565946542585683,95.7
+Uskela,571,Uskela,571,1,100
+Laukaa,132,Laukaa,132,0.9999999999998035,100
+Pieksämäki,195,Pieksämäki,195,0.754949563149788,75.5
+Virtasalmi,593,Pieksämäki,195,0.2450504368501938,24.5
+Joroinen,059,Leppävirta,136,0.026528895332395556,2.7
+Leppävirta,136,Leppävirta,136,0.9689141641190679,96.9
+Joroinen,059,Joroinen,059,0.9999999999999597,100
+Kangaslampi,369,Kangaslampi,369,0.9998059186273515,100
+Ilomantsi,049,Ilomantsi,049,0.9050856699536838,90.5
+Kovero,623,Ilomantsi,049,0.09491433004630412,9.5
+Kajaani,070,Kajaani,070,1,100
+Huittinen,038,Huittinen,038,0.9999998844617661,100
+Kihniö,094,Parkano,188,0.9999999572773383,100
+Kustavi,118,Taivassalo,267,0.16438827806858672,16.4
+Kustavi,118,Taivassalo,267,0.2319038856006483,23.2
+Taivassalo,267,Taivassalo,267,0.01835495547507222,1.8
+Kustavi,118,Taivassalo,267,0.17884382976452373,17.9
+Taivassalo,267,Taivassalo,267,0.4065090510911719,40.7
+Varpaisjärvi,583,Nilsiä,464,0.29758541133758215,29.8
+Nilsiä,464,Nilsiä,464,0.442192623398622,44.2
+Muuruvesi,460,Nilsiä,464,0.2602219652638111,26
+Pyhäntä,214,Piippola,490,0.6492861834744768,64.9
+Piippola,490,Piippola,490,0.3507138165255415,35.1
+Pyhäselkä,503,Kiihtelysvaara,389,0.9999998261394342,100
+Jyväskylä,064,Jyväskylän mlk,360,0.657886135988669,65.8
+Toivakka,275,Jyväskylän mlk,360,0.34211386401133587,34.2
+Valtimo,291,Nurmes,174,0.2978828343775239,29.8
+Nurmeksen mlk,468,Nurmes,174,0.6753867648459306,67.5
+Nurmeksen mlk,468,Nurmes,174,0.026730400776563804,2.7
+Iisalmen mlk,351,Rutakko,678,1,100
+Iisalmen mlk,351,Iisalmi,045,0.25935587909891056,25.9
+Iisalmen mlk,351,Iisalmi,045,0.29020265673654044,29
+Iisalmen mlk,351,Iisalmi,045,0.45044146416456066,45
+Karjaa,373,Mustion ruukins.,679,1,100
+Karjaa,373,Karja,680,1,100
+Pietarsaari,197,Pietarsaari,197,0.995473390789741,99.5
+Pietarsaari,197,Pietarsaaren mlk,681,0.999999995888343,100
+Vaala,288,Paltamo,185,0.18728209857201356,18.7
+Kajaani,070,Paltamo,185,0.4301875778275186,43
+Paltamo,185,Paltamo,185,0.38253032194399283,38.3
+Nuijamaa,466,Viipurin mlk,590,0.2075455988308279,20.8
+Viipurin mlk,590,Viipurin mlk,590,0.7924543969153134,79.2
+Nuijamaa,466,Lapvesi,682,0.16889618016860317,16.9
+Lappee,429,Lapvesi,682,0.8311038198313783,83.1
+Lapua,131,Nurmo,469,0.21427041644499958,21.4
+Nurmo,469,Nurmo,469,0.5094189918209279,50.9
+Nurmo,469,Nurmo,469,0.276310591734066,27.6
+Messukylä,451,Messukylä,451,1,100
+Vehkalahti,584,Vehkalahti,584,1,100

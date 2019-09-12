@@ -1,0 +1,5 @@
+Here you can create crosswalks. Select the years that you would wish to combine.
+Then filter the observations. The default, range from 1 to 100,
+keeps all the observations whose multiplier-variable "kerroin"
+is above 0.01. You can read more about the meaning of these multipliers by pressing
+"info" at the bottom of this page.

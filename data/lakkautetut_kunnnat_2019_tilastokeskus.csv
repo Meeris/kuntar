@@ -1,0 +1,316 @@
+Lakkautuskunta,Nimike,Ajankohta,Liitoskunta,Nimike_1
+001,Ahlainen,1.1.1972,609,Pori
+002,Aitolahti,1.1.1966,837,Tampere
+003,Akaa,1.1.1946,020,Akaa
+004,Alahärmä,1.1.2009,233,Kauhava
+006,Alastaro,1.1.2009,430,Loimaa
+007,Alatornio,1.1.1973,851,Tornio
+008,Alaveteli,1.1.1969,288,Kruunupyy
+011,Angelniemi,1.1.1967,734,Salo
+012,Anjala,1.1.1975,286,Kouvola
+754,Anjalankoski,1.1.2009,286,Kouvola
+013,Antrea,19.9.1944,NA,Luovutetulla alueella
+014,Anttola,1.1.2001,491,Mikkeli
+015,Artjärvi,1.1.2011,560,Orimattila
+017,Askainen,1.1.2009,481,Masku
+032,Bergö,1.1.1973,475,Maalahti
+033,Björköby,1.1.1973,499,Mustasaari
+034,Bromarv,1.1.1977,710,Raasepori
+039,Degerby,1.1.1946,149,Inkoo
+040,Dragsfjärd,1.1.2009,322,Kemiönsaari
+044,Elimäki,1.1.2009,286,Kouvola
+045,Eno,1.1.2009,167,Joensuu
+048,Eräjärvi,1.1.1973,562,Orivesi
+068,Haaga,1.1.1946,091,Helsinki
+070,Haapasaari,1.1.1974,285,Kotka
+073,Halikko,1.1.2009,734,Salo
+080,Harlu,19.9.1944,NA,Luovutetulla alueella
+083,Hauho,1.1.2009,109,Hämeenlinna
+084,Haukipudas,1.1.2013,564,Oulu
+085,Haukivuori,1.1.2007,491,Mikkeli
+087,Heinjoki,19.9.1944,NA,Luovutetulla alueella
+088,Heinola,1.1.1997,111,Heinola
+089,Heinolan mlk,1.1.1997,111,Heinola
+093,Hiitola,19.9.1944,NA,Luovutetulla alueella
+094,Hiittinen,1.1.1969,322,Kemiönsaari
+095,Himanka,1.1.2010,208,Kalajoki
+096,Hinnerjoki,1.1.1970,050,Eura
+100,Honkilahti,1.1.1970,050,Eura
+101,Houtskari,1.1.2009,445,Parainen
+104,Huopalahti,1.1.1946,091,Helsinki
+107,Hyvinkään mlk,1.1.1969,106,Hyvinkää
+110,Hämeenlinnan mlk,1.1.1948,109,Hämeenlinna
+141,Iisalmen mlk,1.1.1970,140,Iisalmi
+144,Ikaalinen,1.1.1972,143,Ikaalinen
+147,Impilahti,19.9.1944,NA,Luovutetulla alueella
+150,Iniö,1.1.2009,445,Parainen
+162,Jaakkima,19.9.1944,NA,Luovutetulla alueella
+163,Jaala,1.1.2009,286,Kouvola
+166,Jepua,1.1.1975,893,Uusikaarlepyy
+168,Johannes,19.9.1944,NA,Luovutetulla alueella
+173,Joutseno,1.1.2009,405,Lappeenranta
+175,Jurva,1.1.2009,301,Kurikka
+180,Jyväskylän mlk,1.1.2009,179,Jyväskylä
+183,Jämsänkoski,1.1.2009,182,Jämsä
+184,Jäppilä,1.1.2004,593,Pieksämäki
+185,Jääski,1.1.1948,405,Lappeenranta
+203,Kaarlela,1.1.1977,272,Kokkola
+206,Kajaanin mlk,1.1.1977,205,Kajaani
+207,Kakskerta,1.1.1968,853,Turku
+209,Kalanti,1.1.1993,895,Uusikaupunki
+210,Kalvola,1.1.2009,109,Hämeenlinna
+212,Kangaslampi,1.1.2005,915,Varkaus
+215,Kanneljärvi,19.9.1944,NA,Luovutetulla alueella
+201,Karhula,1.1.1977,285,Kotka
+219,Karinainen,1.1.2005,636,Pöytyä
+220,Karjaa,1.1.2009,710,Raasepori
+221,Karjaan mlk,1.1.1969,710,Raasepori
+222,Karjala,1.1.1977,503,Mynämäki
+223,Karjalohja,1.1.2013,444,Lohja
+225,Karkku,1.1.1973,790,Sastamala
+227,Karttula,1.1.2011,297,Kuopio
+228,Karuna,1.1.1969,738,Sauvo
+229,Karunki,1.1.1973,851,Tornio
+234,Kaukola,19.9.1944,NA,Luovutetulla alueella
+237,Kauvatsa,1.1.1969,271,Kokemäki
+238,Keikyä,1.1.1981,790,Sastamala
+242,Kemijärven mlk,1.1.1973,320,Kemijärvi
+243,Kemiö,1.1.2009,322,Kemiönsaari
+246,Kerimäki,1.1.2013,740,Savonlinna
+247,Kestilä,1.1.2009,791,Siikalatva
+248,Kesälahti,1.1.2013,260,Kitee
+251,Kiihtelysvaara,1.1.2005,167,Joensuu
+252,Kiikala,1.1.2009,734,Salo
+253,Kiikka,1.1.1981,790,Sastamala
+254,Kiikoinen,1.1.2013,790,Sastamala
+255,Kiiminki,1.1.2013,564,Oulu
+258,Kirvu,19.9.1944,NA,Luovutetulla alueella
+259,Kisko,1.1.2009,734,Salo
+262,Kiukainen,1.1.2009,050,Eura
+264,Kivennapa,19.9.1944,NA,Luovutetulla alueella
+266,Kodisjoki,1.1.2007,684,Rauma
+267,Koijärvi,1.1.1969,061,Forssa
+268,Koivisto,19.9.1944,NA,Luovutetulla alueella
+269,Koiviston mlk,19.9.1944,NA,Luovutetulla alueella
+270,Koivulahti,1.1.1973,499,Mustasaari
+274,Konginkangas,1.1.1993,992,Äänekoski
+277,Korpilahti,1.1.2009,179,Jyväskylä
+278,Korpiselkä,1.1.1946,167,Joensuu
+279,Korppoo,1.1.2009,445,Parainen
+281,Kortesjärvi,1.1.2009,233,Kauhava
+282,Koskenpää,1.1.1969,182,Jämsä
+289,Kuhmalahti,1.1.2011,211,Kangasala
+292,Kuivaniemi,1.1.2007,139,Ii
+293,Kullaa,1.1.2005,886,Ulvila
+294,Kulosaaren huvilak.,1.1.1946,091,Helsinki
+296,Kuolemajärvi,19.9.1944,NA,Luovutetulla alueella
+298,Kuopion mlk,1.1.1969,297,Kuopio
+299,Kuorevesi,1.1.2001,182,Jämsä
+302,Kurkijoki,19.9.1944,NA,Luovutetulla alueella
+303,Kuru,1.1.2009,980,Ylöjärvi
+306,Kuusankoski,1.1.2009,286,Kouvola
+307,Kuusisto,1.1.1946,202,Kaarina
+308,Kuusjoki,1.1.2009,734,Salo
+310,Kylmäkoski,1.1.2011,020,Akaa
+311,Kymi,1.1.1977,285,Kotka
+321,Kyyrölä,1.1.1934,NA,Luovutetulla alueella
+314,Käkisalmen mlk,19.9.1944,NA,Luovutetulla alueella
+313,Käkisalmi,19.9.1944,NA,Luovutetulla alueella
+315,Kälviä,1.1.2009,272,Kokkola
+397,Lahdenpohja,19.9.1944,NA,Luovutetulla alueella
+401,Lammi,1.1.2009,109,Hämeenlinna
+404,Lappee,1.1.1967,405,Lappeenranta
+406,Lappi,1.1.2009,684,Rauma
+409,Lapväärtti,1.1.1973,287,Kristiinankaupunki
+411,Lauritsala,1.1.1967,405,Lappeenranta
+412,Lavansaari,19.9.1944,NA,Luovutetulla alueella
+413,Lavia,26.11.2014,609,Pori
+414,Lehtimäki,1.1.2009,005,Alajärvi
+415,Leivonmäki,1.1.2008,172,Joutsa
+419,Lemu,1.1.2009,481,Masku
+424,Liljendal,1.1.2010,434,Loviisa
+427,Lohja,1.1.1997,444,Lohja
+428,Lohjan kunta,1.1.1997,444,Lohja
+429,Lohtaja,1.1.2009,272,Kokkola
+431,Loimaan kunta,1.1.2005,430,Loimaa
+432,Lokalahti,1.1.1981,895,Uusikaupunki
+437,Lumivaara,19.9.1944,NA,Luovutetulla alueella
+439,Luopioinen,1.1.2007,635,Pälkäne
+443,Längelmäki,1.1.2007,182,Jämsä
+476,Maaninka,26.11.2014,297,Kuopio
+477,Maaria,1.1.1967,853,Turku
+479,Maksamaa,1.1.2007,946,Vöyri
+482,Mellilä,1.1.2009,430,Loimaa
+485,Merimasku,1.1.2009,529,Naantali
+486,Messukylä,1.1.1947,837,Tampere
+487,Metsämaa,1.1.1976,430,Loimaa
+488,Metsäpirtti,19.9.1944,NA,Luovutetulla alueella
+490,Mietoinen,1.1.2007,503,Mynämäki
+492,Mikkelin mlk,1.1.2001,491,Mikkeli
+493,Mouhijärvi,1.1.2009,790,Sastamala
+496,Munsala,1.1.1975,893,Uusikaarlepyy
+497,Muolaa,19.9.1944,NA,Luovutetulla alueella
+501,Muurla,1.1.2009,734,Salo
+502,Muuruvesi,1.1.1971,174,Juankoski
+506,Mänttä,1.1.2009,508,Mänttä-Vilppula
+530,Naantalin mlk,1.1.1964,529,Naantali
+533,Nauvo,1.1.2009,445,Parainen
+534,Nilsiä,1.1.2013,297,Kuopio
+537,Noormarkku,1.1.2010,609,Pori
+539,Nuijamaa,1.1.1989,405,Lappeenranta
+540,Nummi-Pusula,1.1.2013,444,Lohja
+542,Nurmeksen mlk,1.1.1973,541,Nurmes
+544,Nurmo,1.1.2009,743,Seinäjoki
+559,Oravainen,1.1.2011,946,Vöyri
+565,Oulujoki,1.1.1965,564,Oulu
+566,Oulunkylä,1.1.1946,091,Helsinki
+567,Oulunsalo,1.1.2013,564,Oulu
+574,Paattinen,1.1.1973,853,Turku
+575,Paavola,1.1.1973,748,Siikajoki
+573,Parainen,1.1.2009,445,Parainen
+579,Paraisten mlk,1.1.1967,445,Parainen
+582,Pattijoki,1.1.2003,678,Raahe
+585,Pernaja,1.1.2010,434,Loviisa
+586,Perniö,1.1.2009,734,Salo
+587,Pertteli,1.1.2009,734,Salo
+589,Peräseinäjoki,1.1.2005,743,Seinäjoki
+590,Petolahti,1.1.1973,475,Maalahti
+591,Petsamo,19.9.1944,NA,Luovutetulla alueella
+594,Pieksämäen mlk,1.1.2004,593,Pieksämäki
+640,Pieksänmaa,1.1.2007,593,Pieksämäki
+596,Pielisensuu,1.1.1954,167,Joensuu
+597,Pielisjärvi,1.1.1973,422,Lieksa
+600,Pihlajavesi,1.1.1969,249,Keuruu
+602,Piikkiö,1.1.2009,202,Kaarina
+603,Piippola,1.1.2009,791,Siikalatva
+994,Pirkkala,1.1.1922,536,Nokia
+605,Pirttikylä,1.1.1973,545,Närpiö
+606,Pohja,1.1.2009,710,Raasepori
+637,Pohjaslahti,1.1.1973,508,Mänttä-Vilppula
+610,Porin mlk,1.1.1967,609,Pori
+612,Porvoo,1.1.1997,638,Porvoo
+613,Porvoon mlk,1.1.1997,638,Porvoo
+617,Pulkkila,1.1.2009,791,Siikalatva
+618,Punkaharju,1.1.2013,740,Savonlinna
+621,Purmo,1.1.1977,599,Pedersören kunta
+622,Pusula,1.1.1981,444,Lohja
+627,Pyhäjärvi Ul,1.1.1969,224,Karkkila
+628,Pyhäjärvi Vi,19.9.1944,NA,Luovutetulla alueella
+629,Pyhämaa,1.1.1974,895,Uusikaupunki
+632,Pyhäselkä,1.1.2009,167,Joensuu
+633,Pylkönmäki,1.1.2009,729,Saarijärvi
+634,Pälkjärvi,1.1.1946,848,Tohmajärvi
+679,Raippaluoto,1.1.1973,499,Mustasaari
+682,Rantsila,1.1.2009,791,Siikalatva
+685,Rauman mlk,1.1.1993,684,Rauma
+688,Rautio,1.1.1973,208,Kalajoki
+690,Rautu,19.9.1944,NA,Luovutetulla alueella
+692,Renko,1.1.2009,109,Hämeenlinna
+693,Revonlahti,1.1.1973,748,Siikajoki
+695,Riistavesi,1.1.1973,297,Kuopio
+696,Ristiina,1.1.2013,491,Mikkeli
+699,Rovaniemen mlk,1.1.2006,698,Rovaniemi
+701,Ruotsinpyhtää,1.1.2010,434,Loviisa
+703,Ruskeala,19.9.1944,NA,Luovutetulla alueella
+708,Ruukki,1.1.2007,748,Siikajoki
+705,Rymättylä,1.1.2009,529,Naantali
+706,Räisälä,19.9.1944,NA,Luovutetulla alueella
+728,Saari,1.1.2005,580,Parikkala
+730,Sahalahti,1.1.2005,211,Kangasala
+731,Sakkola,19.9.1944,NA,Luovutetulla alueella
+733,Salmi,19.9.1944,NA,Luovutetulla alueella
+735,Saloinen,1.1.1973,678,Raahe
+737,Sammatti,1.1.2009,444,Lohja
+741,Savonranta,1.1.2009,740,Savonlinna
+744,Seinäjoen mlk,1.1.1959,743,Seinäjoki
+745,Seiskari,19.9.1944,NA,Luovutetulla alueella
+750,Siipyy,1.1.1973,287,Kristiinankaupunki
+752,Simpele,1.1.1973,689,Rautjärvi
+756,Snappertuna,1.1.1977,710,Raasepori
+757,Soanlahti,19.9.1944,NA,Luovutetulla alueella
+760,Somerniemi,1.1.1977,761,Somero
+763,Sortavala,19.9.1944,NA,Luovutetulla alueella
+764,Sortavalan mlk,19.9.1944,NA,Luovutetulla alueella
+767,Suistamo,19.9.1944,NA,Luovutetulla alueella
+769,Sulva,1.1.1973,499,Mustasaari
+770,Sumiainen,1.1.2007,992,Äänekoski
+772,Suodenniemi,1.1.2007,790,Sastamala
+773,Suojärvi,19.9.1944,NA,Luovutetulla alueella
+774,Suolahti,1.1.2007,992,Äänekoski
+775,Suomenniemi,1.1.2013,491,Mikkeli
+776,Suomusjärvi,1.1.2009,734,Salo
+779,Suoniemi,1.1.1973,536,Nokia
+780,Suursaari,19.9.1944,NA,Luovutetulla alueella
+782,Säkkijärvi,14.9.2009,405,Lappeenranta
+784,Särkisalo,1.1.2009,734,Salo
+786,Säyneinen,1.1.1971,174,Juankoski
+787,Säynätsalo,1.1.1993,179,Jyväskylä
+788,Sääksmäki,1.1.1973,908,Valkeakoski
+789,Sääminki,1.1.1973,740,Savonlinna
+836,Tammisaaren mlk,1.1.1977,710,Raasepori
+835,Tammisaari,1.1.2009,710,Raasepori
+838,Tarvasjoki,26.11.2014,423,Lieto
+839,Teerijärvi,1.1.1969,288,Kruunupyy
+840,Teisko,1.1.1972,837,Tampere
+841,Temmes,1.1.2001,859,Tyrnävä
+842,Tenhola,1.1.1993,710,Raasepori
+843,Terijoki,19.9.1944,NA,Luovutetulla alueella
+847,Tiukka,1.1.1973,287,Kristiinankaupunki
+864,Toijala,1.1.2007,020,Akaa
+852,Tottijärvi,1.1.1976,536,Nokia
+855,Tuulos,1.1.2009,109,Hämeenlinna
+856,Tuupovaara,1.1.2005,167,Joensuu
+860,Tyrväntö,1.1.1971,082,Hattula
+861,Tyrvää,1.1.1973,790,Sastamala
+862,Tytärsaari,19.9.1944,NA,Luovutetulla alueella
+863,Töysä,1.1.2013,010,Alavus
+885,Ullava,1.1.2009,272,Kokkola
+888,Uskela,1.1.1967,734,Salo
+894,Uudenkaarlepyyn mlk,1.1.1975,893,Uusikaarlepyy
+896,Uudenkaupungin mlk,1.1.1969,895,Uusikaupunki
+891,Uukuniemi,1.1.2005,580,Parikkala
+897,Uusikirkko,19.9.1944,NA,Luovutetulla alueella
+906,Vahto,1.1.2009,704,Rusko
+907,Vahviala,1.1.1946,405,Lappeenranta
+909,Valkeala,1.1.2009,286,Kouvola
+910,Valkjärvi,19.9.1944,NA,Luovutetulla alueella
+912,Vammala,1.1.2009,790,Sastamala
+913,Vampula,1.1.2009,102,Huittinen
+914,Vanaja,1.1.1967,109,Hämeenlinna
+916,Varpaisjärvi,1.1.2011,402,Lapinlahti
+917,Vehkalahti,1.1.2003,075,Hamina
+919,Vehmersalmi,1.1.2005,297,Kuopio
+920,Velkua,1.1.2009,529,Naantali
+926,Vihanti,1.1.2013,678,Raahe
+928,Viiala,1.1.2007,020,Akaa
+929,Viipuri,19.9.1944,NA,Luovutetulla alueella
+930,Viipurin mlk,19.9.1944,NA,Luovutetulla alueella
+932,Viljakkala,1.1.2007,980,Ylöjärvi
+933,Vilppula,1.1.2009,508,Mänttä-Vilppula
+937,Virtasalmi,1.1.2004,593,Pieksämäki
+938,Vuoksela,19.9.1944,NA,Luovutetulla alueella
+939,Vuoksenranta,19.9.1944,NA,Luovutetulla alueella
+940,Vuolijoki,1.1.2007,205,Kajaani
+942,Vähäkyrö,1.1.2013,905,Vaasa
+943,Värtsilä,1.1.2005,848,Tohmajärvi
+923,Västanfjärd,1.1.2009,322,Kemiönsaari
+944,Vöyri,1.1.2007,946,Vöyri
+945,Vöyri-Maksamaa,1.1.2011,946,Vöyri
+971,Ylihärmä,1.1.2009,233,Kauhava
+972,Yli-Ii,1.1.2013,564,Oulu
+973,Ylikiiminki,1.1.2009,564,Oulu
+974,Ylimarkku,1.1.1973,545,Närpiö
+975,Ylistaro,1.1.2009,743,Seinäjoki
+978,Ylämaa,1.1.2010,405,Lappeenranta
+979,Yläne,1.1.2009,636,Pöytyä
+988,Äetsä,1.1.2009,790,Sastamala
+990,Ähtävä,1.1.1977,599,Pedersören kunta
+991,Äyräpää,19.9.1944,NA,Luovutetulla alueella
+993,Äänekosken mlk,1.1.1969,992,Äänekoski
+997,Öja,1.1.1969,272,Kokkola
+442,Luvia,1.1.2017,051,Eurajoki
+174,Juankoski,1.1.2017,297,Kuopio
+164,Jalasjärvi,1.1.2016,301,Kurikka
+283,Hämeenkoski,1.1.2016,098,Hollola
+319,Köyliö,1.1.2016,783,Säkylä
+532,Nastola,1.1.2016,398,Lahti
