@@ -9,10 +9,9 @@ source("./create_data/create_changes_2.R")
 
 source("./create_mapdata/remove_errors_create_shapefiles.R")
                         
-
-
 source("./create_data/update_changes.R")
 
+source("./create_mapdata/create_mapfiles_all_years.R")
 
 source("./create_data/create_leikkidata.R")
 

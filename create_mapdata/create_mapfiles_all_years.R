@@ -2,7 +2,7 @@
 ##
 ## Script name: create_mapfiles_all_years
 ##
-## Purpose of script: Combine the to lists containing maps into one list and make projections 
+## Purpose of script: Combine the two lists containing maps into one list and make projections 
 ##                    consistent.
 ##
 ## Author: Meeri Seppa
@@ -25,7 +25,7 @@
 
 ## packages
 library(tidyverse)
-library("rgdal")
+library(rgdal)
 library(sf)
 library(rgeos)
 
@@ -37,7 +37,7 @@ load("./mapdata/mapfiles_00")
 # merge lists -------------------------------------------------------------
 
 
-## merge the two mapfiles lists
+## merge the two mapfile lists
 files <- append(files, files_00)
 
 
@@ -47,17 +47,13 @@ files <- append(files, files_00)
 crs <-  map(files, ~ st_crs(.x)) %>% unique() %>% pluck(1)
 
 
-## make the CRS and projections consistent
-for (i in names(files)) {
-  if(st_crs(files[[i]]) != crs) {
-      st_crs(files[[i]]) <-  crs
-      temp <- st_transform(files[[i]], crs)
-      files[[i]] <- temp
-  }
-}
+## reproject the new shapefiles using the CRS of old maps
+files <- map_if(files, ~ st_crs(.x) != crs, ~ st_transform(.x, crs))
+
 
 ## check if the outcome is correct
 map_lgl(files, ~ st_crs(.x) == crs)
+
 
 ## save
 save(files, file = "./mapdata/mapfiles_all_years")

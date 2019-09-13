@@ -1,9 +1,9 @@
 ## ---------------------------
 ##
-## Script name: create_changes_2
+## Script name: create_changes_all_year
 ##
 ## Purpose of script: create a list of all the changes in municipality
-##                    division between 1860 and 1970 based on crosswalk files 
+##                    division between 1860 and 2019 based on crosswalk files 
 ##
 ## Author: Meeri Seppa
 ##
@@ -15,7 +15,7 @@
 ## ---------------------------
 ##
 ## Notes: 
-##    output: kuntamuutokset_1860_1970.csv
+##    output: kuntamuutokset_1860_2019.csv
 ##
 ## ---------------------------
 
@@ -25,7 +25,7 @@
 
 library(readr)
 source("./functions/functions.R")
-load("./mapdata/mapfiles_fixed_no_overlaps")
+load("./mapdata/mapfiles_all_years")
 
 
 # create the dataset by intersecting ------------------------------------------------------
@@ -44,7 +44,7 @@ for(i in c(1:(length(years) - 1))) {
   temp <- temp %>% 
     dplyr::select(contains("nimi"), contains("id"), kerroin ) %>% 
     rename_all(~ str_replace(., "[0-9]{4}", "liitetty_kunta"))
-
+  
   # create a list column
   time_name <- paste(years[i], years[i + 1], sep = "-")
   temp <- tribble(~aika, ~data , time_name, temp)
@@ -70,5 +70,5 @@ changes <- changes %>%
 
 
 ## Save 
-write_csv(changes, "./data/kuntamuutokset_1860_1970.csv")
+write_csv(changes, "./data/kuntamuutokset_1860_2019.csv")
 

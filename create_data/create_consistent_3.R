@@ -2,7 +2,7 @@
 ##
 ## Script name: create_consistent
 ##
-## Purpose of script: create area within which there occur no changes 
+## Purpose of script: create an area within which there occurs no changes 
 ##
 ## Author: Meeri Seppa
 ##
@@ -14,7 +14,7 @@
 ## ---------------------------
 ##
 ## Notes:
-##   some problems: luovuteulla alueella, korjaus 1%?
+##  output: consistent shapefiles
 ##                  
 ## ---------------------------
 
@@ -33,16 +33,19 @@ source("./functions/functions_consistent.R")
 
 
 ## map data
-load("./mapdata/mapfiles_fixed_no_overlaps_or_errors")
-
+#load("./mapdata/mapfiles_fixed_no_overlaps_or_errors")
+load("./mapdata/mapfiles_all_years")
 
 
 # create a map of consistent areas ---------------------------------------------------------------------
 
 
 ## initialize the list
-maps <- as.list(c("1970", "1930"))
-names(maps) <- c("1860_1970", "1860_1930")
+maps <-  names(files)[-c(1:3)] %>% as.list()
+  
+## rename
+names(maps) <- names(files)[-c(1:3)] %>%  paste0("1860_", .)
+
 
 ## get consistent groups
 maps <- map(maps, ~ get_consistent(from = "1860", to = .x, filter = 5)  )
@@ -57,7 +60,7 @@ maps <- map(maps, ~ get_consistent_map(group = .x, map = pluck(files, 4) ))
 
 ## are the plogyons valid? 
 maps <- map(maps, as_Spatial)
-ifelse(map_lgl(maps, gIsValid), "Kartta on validi", "Kartassa on jotain vialla")
+ifelse(map_lgl(maps, gIsValid), "The map is valid", "There is sth wrong with the map")
 
 ## if not, fix them
 maps <- map_if(maps, ~ !gIsValid(.x), gBuffer,  width = 0, byid = TRUE)
@@ -69,13 +72,11 @@ maps <- map_if(maps, ~ !gIsValid(.x), gBuffer,  width = 0, byid = TRUE)
 maps %>% pluck(1) %>% st_as_sf() %>%  ggplot() + geom_sf()
 maps %>% pluck(2) %>% st_as_sf() %>%  ggplot() + geom_sf()
 
-
-
 # save --------------------------------------------------------------------
 
 dsn <- "./shapefiles_new/consistent_"
 
-map2(maps, c(1:2), 
+map2(maps, c(1:length(maps)), 
      ~ writeOGR(.x, dsn = paste0(dsn, names(maps))[.y],
               driver = "ESRI Shapefile", 
               layer = paste0("cons_", names(maps))[.y],

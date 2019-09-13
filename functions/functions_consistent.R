@@ -33,7 +33,7 @@ p_load("ggplot2", "rgdal", "dplyr", "sf", "rgeos", "raster", "purrr",
 get_consistent <- function(from, to, filter = 1) {
   
   ## create temp
-  cons <- read_csv("./data/kuntamuutokset_1860_1970_no_errors.csv", guess_max = 6000)
+  cons <- read_csv("./data/kuntamuutokset_1860_2019.csv", guess_max = 6000)
   
   ## filter out the unmeaningful changes 
   cons <- cons %>% 
