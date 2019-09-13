@@ -68,6 +68,21 @@ Project structure:
 <td>create_leikkidata</td>
 <td>leikkidata_1930.csv, leikkidata_1970.csv</td>
 </tr>
+<tr class="odd">
+<td>mapfiles_00, mapfiles_fixed_no_overlaps_or_errors</td>
+<td>create_mapfiles_all_years</td>
+<td>mapfiles_all_years</td>
+</tr>
+<tr class="even">
+<td>mapfiles_all_years</td>
+<td>create_changes_all_years</td>
+<td>kuntamuutokset_1860_1970_no_errors.csv</td>
+</tr>
+<tr class="odd">
+<td>mapfiles_all_years, kuntamuutokset_1860_1970_no_errors.csv</td>
+<td>create_consistent_3</td>
+<td>(shapefiles_new consistent)</td>
+</tr>
 </tbody>
 </table>
 
@@ -87,4 +102,4 @@ The web page:
 
 Instructions for the webpage:
 
--   intructions
+-   instructions

@@ -2,7 +2,7 @@
 ##
 ## Script name: app
 ##
-## Purpose of script: create app for project kuntaR
+## Purpose of script: create app for project kuntar
 ##
 ## Author: Meeri Seppa
 ##
@@ -104,7 +104,13 @@ ui <- navbarPage("Kuntarajat",
                                         # Horizontal line 
                                         tags$hr(),
                                         
+                                        # title
                                         tags$h4("convert data with crosswalk"),
+                                        
+                                        # instructions
+                                        helpText("You can convert data to correspond another year's
+                                                 municipality division using the crosswalk. If you have
+                                                 no data, choose one of the example datasets."),
                                         
                                         # select file
                                         radioButtons("file_select", 
