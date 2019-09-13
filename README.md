@@ -2,7 +2,7 @@ kuntar
 ================
 Meeri Seppä
 
-This folder contains the following files:
+Project structure:
 
 <table>
 <colgroup>
@@ -81,6 +81,10 @@ This file will update every dataset:
 
 -   update\_files.R
 
-User interface:
+The web page:
 
 -   app.R
+
+Instructions for the webpage:
+
+-   intructions
