@@ -24,11 +24,10 @@
 
 if (!require("pacman")) install.packages("pacman")
 p_load("ggplot2", "rgdal", "dplyr", "sf", "rgeos", "raster", "purrr",
-       "tidyr", "readr")
+       "tidyr", "readr", "tidyverse")
 
 
 # list of consistent groups ----------------------------------------
-
 
 get_consistent <- function(from, to, filter = 1) {
   
@@ -41,7 +40,7 @@ get_consistent <- function(from, to, filter = 1) {
   
   ## select the years 
   years <- unique(cons$aika)
-  years <- years[which(str_detect(years, from)):
+  years <- years[last(which(str_detect(years, from))):
                    first(which(str_detect(years, to)))]
   
   
